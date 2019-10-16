@@ -8,7 +8,7 @@ Download all files and put it in one folder. After that run index.html file on y
 
 Technology Used: HTML/HTML5, CSS/CSS3, Bootstrap 4, JavaScript.
 
-Duration: May to Jun, 2019.
+Duration: Aug, 2019.
 
 URL: https://sumandeyashi.github.io/Champion_Minerals_Website/
 
